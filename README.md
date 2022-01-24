@@ -34,4 +34,3 @@ Copyright (c) 2015, Andreas Marek and [Contributors](https://github.com/graphql-
 [YourKit](https://www.yourkit.com/) supports this project by providing the YourKit Java Profiler.
 
 
-
